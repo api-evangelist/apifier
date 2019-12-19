@@ -1,0 +1,71 @@
+{
+    "name": "Apifier",
+    "description": "Apify extracts data from websites, crawls lists of URLs and automates workflows on the web. Turn any website into an API in a few minutes!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20035-apifier.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "scraping",
+        "scraping web crawler",
+        "web crawler"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apifier\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apifier",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20035-apifier.jpg",
+            "humanURL": "https:\/\/www.apifier.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apifier-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.apifier.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.apifier.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/apify"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.apifier.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "support@apify.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/apifier"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ApifierInfo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apify"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.apifier.com\/"
+        }
+    ]
+}
